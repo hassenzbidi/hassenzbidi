@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @hassenzbidi
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on a flutter applicatio
+- 🌱 I’m currently learning reactjs
+- 💞️ I’m looking to collaborate on a reactjs application
